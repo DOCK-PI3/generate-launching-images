@@ -27,7 +27,7 @@ user="$SUDO_USER"
 home="$(eval echo ~$user)"
 
 readonly ES_DIR=("$home/.emulationstation" "/etc/emulationstation")
-readonly CONFIGDIR="/opt/retropie/configs"
+readonly CONFIGDIR="/opt/masos/configs"
 readonly TMP_BACKGROUND="/tmp/background.png"
 readonly TMP_LOGO="/tmp/system_logo.png"
 readonly TMP_LAUNCHING="/tmp/tmp_launching.png"
